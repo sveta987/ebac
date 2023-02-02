@@ -1,0 +1,25 @@
+@import "avatar.css";
+@import "personalDetail.css";
+@import "profile.css";
+
+button {
+    padding: 10px 20px;
+    background-color: #35a267;
+    color: white;
+    box-shadow: 1px 1px 1px gray inset;
+    border-radius: 30px;
+    border: 1px solid #35a267;
+}
+
+button:hover {
+    background-color: white;
+    color: #35a267;
+    cursor: pointer;
+}
+
+.change-password{
+    margin-top:50%;
+}
+
+
+

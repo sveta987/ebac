@@ -1,0 +1,35 @@
+.edit-data-button {
+    background: none !important;
+    border: none !important;
+    box-shadow: none;
+    padding: 0;
+}
+
+.edit-data-button:hover {
+    background: none !important;
+    border: none !important;
+}
+
+.edit-data-button img {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    margin-top: 80%;
+}
+
+.name-section, .birthdate-section, .city-section, .email-section, .phone-section, .submit-button, .languages-section {
+    display: flex;
+    justify-content: center;
+}
+
+.validation-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.submit-button {
+    display: flex;
+    justify-content: center;
+    margin: 5px 0;
+}

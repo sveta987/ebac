@@ -1,0 +1,21 @@
+.profile-picture-section {
+    display: flex;
+    justify-content: center;
+}
+
+.edit-avatar{
+    margin-left: 15px;
+}
+
+
+.edit-avatar input {
+    display: none;
+}
+
+
+.avatar {
+    border-radius: 10%;
+    border: 1px solid #35a267;
+    width: 300px;
+    height: 300px;
+}

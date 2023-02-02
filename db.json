@@ -1,0 +1,22 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "avatarImg": null,
+      "name": "John",
+      "surname": "Smith",
+      "middleName": "Mark",
+      "birthDate": "24/05/2000",
+      "city": "London",
+      "email": "example@gmail.com",
+      "phone": "+7123456789",
+      "password": "11112222",
+      "languages": [
+        "Armenian",
+        "English",
+        "Latin",
+        "Chinese"
+      ]
+    }
+  ]
+}
