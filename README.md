@@ -17,3 +17,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+You need to start db.json for normally watch project, for that you need use this command.
+json-server --watch db.json
